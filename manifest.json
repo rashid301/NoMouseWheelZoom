@@ -2,7 +2,7 @@
   "manifest_version": 2,
 
   "name": "NoMouseWheelZoom",
-  "description": "This extension disables the annoying zoom shortcut Ctrl+ Mousewheel.",
+  "description": "This extension disables the annoying zoom shortcut Ctrl + Mousewheel on Chrome.",
   "version": "1.0",
 
   "content_scripts": [
