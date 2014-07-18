@@ -5,6 +5,4 @@ function mousewheelfn(e){
 	}
 };
 
-$(document).ready(function(){
-	window.onmousewheel=document.onmousewheel=mousewheelfn;
-});
+window.onmousewheel=document.onmousewheel=mousewheelfn;

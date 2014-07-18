@@ -1,9 +1,3 @@
-var s = document.createElement('script');
-s.src = chrome.extension.getURL('jquery.min.js');
-s.onload = function() {
-    this.parentNode.removeChild(this);
-};
-(document.head||document.documentElement).appendChild(s);
 var s2 = document.createElement('script');
 s2.src = chrome.extension.getURL('NoMouseWheelZoom.min.js');
 s2.onload = function() {

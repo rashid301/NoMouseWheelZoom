@@ -7,6 +7,6 @@ rm -Rf $deliverable;
 
 mkdir $deliverable;
 
-cp contentscript.js jquery.min.js manifest.json NoMouseWheelZoom.min.js $deliverable
+cp contentscript.js manifest.json NoMouseWheelZoom.min.js $deliverable
 
 zip -r $output $deliverable/*
