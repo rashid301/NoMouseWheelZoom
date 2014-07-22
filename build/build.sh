@@ -10,3 +10,5 @@ mkdir $deliverable;
 cp contentscript.js manifest.json NoMouseWheelZoom.min.js $deliverable
 
 zip -r $output $deliverable/*
+
+rm -Rf $deliverable;
