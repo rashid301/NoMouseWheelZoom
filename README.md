@@ -1,9 +1,10 @@
 NoMouseWheelZoom
 ================
+
 Installation Instructions
-    1. Install the extension
-    2. Go to extension settings. Make sure that "allow access to file url's" is checked
-    3. Refresh Your tabs
+1. Install the extension
+2. Go to extension settings. Make sure that "allow access to file url's" is checked
+3. Refresh Your tabs
 
 v 1.1
 Changelog
